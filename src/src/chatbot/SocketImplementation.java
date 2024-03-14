@@ -3,31 +3,43 @@ package chatbot;
 import java.io.*;
 import java.net.ServerSocket;
 import java.net.Socket;
+import java.util.Objects;
 
 public class SocketImplementation {
 
-    private ServerSocket serverSocket;
-    private Socket socket;
-    private PrintWriter output;
-    private BufferedReader input;
-
-    public Socket initializeAndConnect(int port) throws IOException {
-        serverSocket = new ServerSocket(400);
-        socket = serverSocket.accept();
-        initializeCommunication();
-        return socket;
+    public static void main(String[] args) throws IOException {
+        connect(400);
+        String str = "";
+        while(!Objects.equals(str, "q")){
+            str = recieveMessage();
+        }
+        closeConnection();
     }
 
-    private void initializeCommunication() throws IOException {
+    private static ServerSocket serverSocket;
+    private static Socket socket;
+    private static PrintWriter output;
+    private static BufferedReader input;
+
+
+    public static void connect(int port) throws IOException {
+        serverSocket = new ServerSocket(port);
+        socket = serverSocket.accept();
+        initializeStreamVariables();
+    }
+
+    private static void initializeStreamVariables() throws IOException {
         output = new PrintWriter(socket.getOutputStream(), true);
         input = new BufferedReader(new InputStreamReader(socket.getInputStream()));
     }
 
-    public void recieveMessage(){
-
+    public static String recieveMessage() throws IOException {
+        String str = input.readLine();
+        output.println(str);
+        return str;
     }
 
-    public void closeConnection() throws IOException {
+    public static void closeConnection() throws IOException {
         input.close();
         output.close();
         serverSocket.close();
