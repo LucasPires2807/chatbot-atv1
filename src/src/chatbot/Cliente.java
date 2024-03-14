@@ -6,16 +6,6 @@ import java.util.Objects;
 
 public class Cliente {
 
-    public static void main(String[] args) throws IOException {
-        connect(400);
-        String str = "";
-        while(!Objects.equals(str, "q")){
-            str = sendMessage();
-            readMessage();
-        }
-        closeConnection();
-    }
-
     private static Socket socket;
     private static BufferedReader keyboardInput;
     private static BufferedReader serverAnswer;

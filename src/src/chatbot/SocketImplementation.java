@@ -7,15 +7,6 @@ import java.util.Objects;
 
 public class SocketImplementation {
 
-    public static void main(String[] args) throws IOException {
-        connect(400);
-        String str = "";
-        while(!Objects.equals(str, "q")){
-            str = recieveMessage();
-        }
-        closeConnection();
-    }
-
     private static ServerSocket serverSocket;
     private static Socket socket;
     private static PrintWriter output;
