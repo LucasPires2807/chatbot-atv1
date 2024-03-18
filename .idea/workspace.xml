@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a824db28-8249-4dc1-8910-c5d5fad5bd06" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.mylyn/.taskListIndex/segments_1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.mylyn/.taskListIndex/write.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.mylyn/repositories.xml.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.mylyn/tasks.xml.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/.org.eclipse.egit.core.cmp/.location" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/history.version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/1.tree" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jdt.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.jsch.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.m2e.discovery.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.context.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.monitor.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.mylyn.tasks.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.workbench.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.urischeme.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.egit.core/.org.eclipse.egit.core.cmp/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.egit.core/.org.eclipse.egit.core.cmp/.settings/org.eclipse.core.resources.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/assumedExternalFilesCache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/javaLikeNames.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/OpenTypeHistory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.core/workspaceState.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.logback/0.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.m2e.logback/logback.2.6.0.20240217-1525.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.mylyn.github.ui/avatars.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.oomph.setup/workspace.setup" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.tips.ide/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ui.intro/introstate" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.ui.workbench/workingsets.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.metadata/version.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/chatbot/Cliente.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/chatbot/Cliente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/chatbot/SocketImplementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/chatbot/SocketImplementation.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;LucasPires2807&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="3b1a67eb-9d37-4c33-9698-d6c31bde46d4" />
+        <option name="url" value="https://github.com/LucasPires2807/chatbot-atv1.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2dajmGHzIpVtwSRYTsXiaw0PajW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Cliente.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.SocketImplementation.executor": "Run",
+    "Application.chatbot.Main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "21",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/lucas/TI/setimo-periodo/programacao-distribuida/chatbot-atv1",
+    "onboarding.tips.debug.path": "C:/Users/lucas/TI/setimo-periodo/programacao-distribuida/chatbot-atv1/teste/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.chatbot.Main">
+    <configuration name="Cliente" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chatbot.Cliente" />
+      <module name="src" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="src" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SocketImplementation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chatbot.SocketImplementation" />
+      <module name="src" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chatbot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="chatbot.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chatbot.Main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chatbot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.chatbot.Main" />
+        <item itemvalue="Application.Cliente" />
+        <item itemvalue="Application.SocketImplementation" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-4caba194b151-23eed401" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a824db28-8249-4dc1-8910-c5d5fad5bd06" name="Changes" comment="" />
+      <created>1710253243077</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710253243077</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Comunicação entre servidor e cliente via socket funcionando">
+      <option name="closed" value="true" />
+      <created>1710378377270</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1710378377270</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Recuperando documentos apagados por engano">
+      <option name="closed" value="true" />
+      <created>1710382974558</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710382974558</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+        <option value="Space.CommitStatus" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Comunicação entre servidor e cliente via socket funcionando" />
+    <MESSAGE value="Recuperando documentos apagados por engano" />
+    <option name="LAST_COMMIT_MESSAGE" value="Recuperando documentos apagados por engano" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.net.BindException" package="java.net" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/src/chatbot/Main.java</url>
+          <line>8</line>
+          <properties class="chatbot.Main" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

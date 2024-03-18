@@ -2,7 +2,6 @@ package chatbot;
 
 import java.io.*;
 import java.net.Socket;
-import java.util.Objects;
 
 public class Cliente {
 
